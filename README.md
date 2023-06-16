@@ -23,7 +23,7 @@ Follow these steps to setup the application on your machine:
 FOR database.py
 
   Configuration
-  Before running the scripts, you need to set several environment variables. These are used to configure the connection to the database and to authenticate with the AQI API. The environment variables you need to set are:
+  Before running the scripts, you need to set several environment variables. These are used to configure the connection to the database   and to authenticate with the AQI API. The environment variables you need to set are:
   * DB_HOST: The hostname of your PostgreSQL server. If you're running the server on your own computer, this will be localhost.
   * DB_NAME: The name of your PostgreSQL database.
   * DB_USER: The username for your PostgreSQL database.
